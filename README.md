@@ -1,2 +1,2 @@
 # Pesquisa
-Um programa simples que realiza uma consulta ao banco de dados
+Um programa simples que realiza uma consulta ao banco de dados SQLite
