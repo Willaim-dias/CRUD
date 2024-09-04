@@ -12,3 +12,11 @@ sqlite-jdbc: Driver JDBC (Java Database Connectivity) que permite que aplicativo
 ## Banco de Dados Utilizado: SQLite
 
 SQLite é um sistema de gerenciamento de banco de dados relacional leve e autossuficiente, amplamente usado por ser embutido e não requerer a instalação de um servidor de banco de dados.
+
+## Como Executar o Projeto
+
+1. **Crie um novo projeto Java**: Use a IDE de sua escolha.
+2. **Substitua a pasta `src`**: Navegue até a pasta `src` do seu projeto e substitua-a pelo `src` deste repositório.
+3. **Compile e execute o código**.
+4. **Bibliotecas**: Certifique-se de baixar as bibliotecas necessárias.
+5. **Banco de Dados**: Se estiver usando um banco de dados diferente, modifique a classe `DbConnection` conforme necessário.
