@@ -2,6 +2,8 @@
 
 Este programa realiza as quatro operações do CRUD, que é o acrônimo para Create (criar), Read (ler), Update (atualizar) e Delete (apagar). Além disso, utiliza a GUI (Graphical User Interface - Interface Gráfica do Usuário) em Java. Uma GUI permite que os usuários interajam com um programa através de componentes gráficos.
 
+<img src="img.png" alt="img aplicação em execução"/>
+
 ## Bibliotecas Utilizadas
 logback: Ferramenta de registro (logging) em Java, utilizada para gerar logs de maneira flexível e eficiente.
 
